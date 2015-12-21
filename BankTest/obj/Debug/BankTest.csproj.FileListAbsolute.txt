@@ -14,3 +14,13 @@ C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\O
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\BankTest\obj\Debug\BankTest.dll
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\BankTest\obj\Debug\BankTest.pdb
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\BankTest\bin\Debug\BankTest.dll
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\BankTest\bin\Debug\BankTest.pdb
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\BankTest\bin\Debug\BankTest.dll.CodeAnalysisLog.xml
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\BankTest\bin\Debug\BankTest.dll.lastcodeanalysissucceeded
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\BankTest\bin\Debug\Bank.dll
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\BankTest\bin\Debug\Bank.pdb
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\BankTest\obj\Debug\BankTest.dll
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\BankTest\obj\Debug\BankTest.pdb

@@ -14,3 +14,10 @@ N:\School\Kwaliteitskunde\KwaliteitskundeBuildserveropdracht\BankAppDefault\Bank
 N:\School\Kwaliteitskunde\KwaliteitskundeBuildserveropdracht\BankAppDefault\Bank_example_Microsoft\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
 N:\School\Kwaliteitskunde\KwaliteitskundeBuildserveropdracht\BankAppDefault\Bank_example_Microsoft\Bank\Bank\obj\Debug\Bank.dll
 N:\School\Kwaliteitskunde\KwaliteitskundeBuildserveropdracht\BankAppDefault\Bank_example_Microsoft\Bank\Bank\obj\Debug\Bank.pdb
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\Bank\bin\Debug\Bank.dll
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\Bank\bin\Debug\Bank.pdb
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\Bank\bin\Debug\Bank.dll.CodeAnalysisLog.xml
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\Bank\bin\Debug\Bank.dll.lastcodeanalysissucceeded
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\Bank\obj\Debug\Bank.dll
+N:\Nicolas\School\School 2015-2016\Bedrijfskunde\KwaliteitskundeBuildserveropdracht\SRVBAMBOO\BankApp\Bank\obj\Debug\Bank.pdb

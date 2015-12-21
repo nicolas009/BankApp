@@ -8,7 +8,7 @@ namespace BankAccountNS
     public class BankAccount
     {
 
-        //Random string 
+        //Random string Mod
         private string m_customerName;
         private double m_balance;
         private bool m_frozen = false;
