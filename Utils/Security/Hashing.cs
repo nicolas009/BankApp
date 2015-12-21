@@ -6,6 +6,10 @@ using System.Web;
 
 namespace Utils.Security
 {
+
+    /// <summary>
+    /// Small change
+    /// </summary>
     public static class Hashing
     {
         public static string HashPassword(string password)
