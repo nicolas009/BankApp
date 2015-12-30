@@ -8,7 +8,7 @@ namespace Utils.Security
 {
 
     /// <summary>
-    /// Small change
+    /// Dieter test comment
     /// </summary>
     public static class Hashing
     {
